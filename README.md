@@ -5,7 +5,7 @@ An automated Python script to get daily rewards from 1point3acres (一畝三分�
 and deploy the application on Heroku.
 
 ## Deployment
-
+##
 1. Fork to your github repository.
 <img src="https://imgur.com/k3Y979C.png">
 
